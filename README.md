@@ -3,12 +3,12 @@
 _Competitive Gamer, Coach, Technologist, EFL Teacher, Journalist_
 _based  in Ordu, Turkey and London, UK_ <br>
 
-[Email](mailto:tarik@opalblue.com) / [Twitch](https://www.twitch.tv/proto7/) / [Discord](proto7#0086)
+[Email](mailto:tarik@opalblue.com) / [Twitch](https://www.twitch.tv/proto7/) / Discord: **proto7#0086**
 
 
 ## Core Competencies
 
-My diverse exeriences across both technical and customer facing roles means that I can be extremely valuable in multidisciplinary roles. I am an exceptional communicator and have an analytical, curious mind. My empathys allow me to teach and coach highly effectively. I value quality  and am always looking for an elegant and simple solution to a problem.
+My diverse exeriences across both technical and customer facing roles mean that I can be extremely valuable in multidisciplinary roles. I am an exceptional communicator and have an analytical, curious mind. My empathy allows me to teach and coach highly effectively. I value quality  and am always looking for an elegant and simple solution to a problem.
 
 ## Gaming/Coaching Experience
 
