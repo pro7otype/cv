@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Tarik 'proto7' Bilgin's CV
 
 You can use the [editor on GitHub](https://github.com/pro7otype/cv/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
