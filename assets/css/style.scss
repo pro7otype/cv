@@ -2,5 +2,11 @@
 ---
 
 @import "{{ site.theme }}";
-margin-left: 300px; 
-margin-right: 300px;
+
+.wrapper {
+  width:740px;
+  margin:0 auto;
+  background:#DEDEDE;
+  border-radius: 8px;
+  box-shadow: rgba(#000, 0.2) 0 0 0 1px, rgba(#000, 0.45) 0 3px 10px;
+}
