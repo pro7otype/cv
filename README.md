@@ -8,12 +8,12 @@ _based  in Ordu, Turkey and London, UK_ <br>
 
 ## Core Competencies
 
-My diverse exeriences across both technical and customer facing roles mean that I can be extremely valuable in multidisciplinary roles. I am an exceptional communicator and have an analytical, curious mind. My empathy allows me to teach and coach highly effectively. I value quality  and am always looking for an elegant and simple solution to a problem.
+My diverse experiences across both technical and customer facing roles mean that I can be extremely valuable in multidisciplinary roles. I am an exceptional communicator and have an analytical, curious mind. My empathy allows me to teach and coach highly effectively. I value quality  and am always looking for an elegant and simple solution to a problem.
 
 ## Gaming/Coaching Experience
 
   - Currently working with the local municipality in Ordu, Turkey to create an esports team.
-  - Twitch Affliate streamer since October 2019, specialising in educational/coaching content.
+  - Twitch Affiliate streamer since October 2019, specialising in educational/coaching content.
   - Coached a casual 3000 rated team to prepare them for Overwatch open division.
   - Active discord server for my Twitch channel where I interact with viewers and coaching students.
   - Coached Overwatch players from Bronze up to GM on stream. 
@@ -86,7 +86,7 @@ Scala Softworks provided outsourced IT consultancy and support to smaller financ
 
 ## Journalism Experience 
 
-Columnnist@[Haber Ekspres](https://www.haberekspres.com.tr/profil/96/tarik-bilgin), Izmir, Turkey _Jun 2018 - Jan 2020_<br>
+Columnist@[Haber Ekspres](https://www.haberekspres.com.tr/profil/96/tarik-bilgin), Izmir, Turkey _Jun 2018 - Jan 2020_<br>
 Haber Ekspress is a local newspaper in Izmir, Turkey
   - Wrote a weekly general interest column in Turkish
   - Wide range of topics including esports when it would interest an average reader.
