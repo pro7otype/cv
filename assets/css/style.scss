@@ -2,3 +2,16 @@
 ---
 
 @import "{{ site.theme }}";
+
+@media print {
+  header p.view a small:before {
+    content:'at https://github.com/';
+  }
+  .wrapper {
+  width:75%;
+  margin:0 auto;
+  background:#DEDEDE;
+  border-radius: 8px;
+  box-shadow: rgba(#000, 0.2) 0 0 0 1px, rgba(#000, 0.45) 0 3px 10px;
+  }
+}
