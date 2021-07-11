@@ -1,4 +1,4 @@
-# Tarık Bilgin
+# Tarık Bilgin 
 
 _Competitive Gamer, Coach, Technologist, EFL Teacher, Journalist_
 _based  in Ordu, Turkey and London, UK_ <br>
