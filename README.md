@@ -3,7 +3,7 @@
 _Competitive Gamer, Coach, Technologist, EFL Teacher, Journalist_
 _based  in Ordu, Turkey and London, UK_ <br>
 
-[Email](mailto:tarik@opalblue.com) / [Twitch](https://www.twitch.tv/proto7/) / Discord: **proto7#0086**
+[Email](mailto:tarik@opalblue.com) / [Twitch](https://www.twitch.tv/proto7/) / Discord: proto7#0086
 
 
 ## Core Competencies
