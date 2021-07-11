@@ -65,7 +65,7 @@ Scala Softworks provided outsourced IT consultancy and support to smaller financ
   - **_Technologies used:_** PHP, MySQL.
  <br><br>
  
- **Associate Systems Professional**@[JP Morgan and Co.](https://www.jpmorgan.com/), London, UK _Oct 1998 - Jan 2001_
+ **Associate Systems Professional**@[JP Morgan and Co.](https://www.jpmorgan.com/), London, UK _Oct 1998 - Jan 2001_<br>
  JP Morgan is a global investment bank.
   - Was part of a QA team conducting code review meetings, and managed two key IT projects with budgets of $ 50k.
   - Joined as a graduate trainee and complemented the three month intensive application development training program.
