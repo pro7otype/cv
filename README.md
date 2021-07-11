@@ -35,7 +35,7 @@ I survey, analyse, implement and maintain Wi-Fi networks for companies and indiv
   - **_Technologies used:_** Unifi controller, AWS, NetSpot, Ubuntu Linux.
   <br><br>
 
-**Marketing Intern**@[RingCube](https://www.citrix.com/), Mountain View, CA. _(Mar 2010 - Jun 2010)_ <br>
+**Marketing Intern**@[RingCube](https://www.citrix.com/), Mountain View, CA. _(Mar 2011 - Jun 2011)_ <br>
 RingCube (now owned by Citrix) vDesk is a desktop virtualization software with an emphases on high performance compared to traditional virtualization.
   - Worked for the marketing director at this Silicon Valley startup.
   - Dynamic, tech-start up environment. Face to face meetings with high reliance on remote communication within the company.
