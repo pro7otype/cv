@@ -87,7 +87,7 @@ Scala Softworks provided outsourced IT consultancy and support to smaller financ
 ## Journalism Experience 
 
 Columnist@[Haber Ekspres](https://www.haberekspres.com.tr/profil/96/tarik-bilgin), Izmir, Turkey _Jun 2018 - Jan 2020_<br>
-Haber Ekspress is a local newspaper in Izmir, Turkey
+Haber Ekspres is a local newspaper in Izmir, Turkey
   - Wrote a weekly general interest column in Turkish
   - Wide range of topics including esports when it would interest an average reader.
 <br><br>
