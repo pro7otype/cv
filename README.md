@@ -1,6 +1,6 @@
 # Tarık Bilgin 
 
-_Competitive Gamer, Coach, Technologist, EFL Teacher, Journalist_
+_Technologist, EFL Teacher, Journalist, Gamer, Musician_
 _based in London, UK_ <br>
 
 [Email](mailto:tarik@me.com) / Discord: proto7#0086
